@@ -1,1 +1,14 @@
 
+{
+    "level": "error",
+    "message": "Error calling getAllCourses()"
+}
+{
+    "level": "error",
+    "message": "Error calling getAllCourses()"
+}
+{
+    "error": "Thrown ERROR!",
+    "level": "error",
+    "message": "Default error handler triggered; reason: "
+}
